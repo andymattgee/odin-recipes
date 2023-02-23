@@ -1,0 +1,54 @@
+/* Styles.css */
+
+body{
+    background-color: rgb(47, 175, 195)
+ 
+    
+}
+h1{
+    color: maroon;
+    font-size: 400%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center; 
+    
+}
+h2{
+    font-size:300%;
+    text-decoration: underline;
+    text-align:center;
+}
+h3{
+    color: rgb(20, 90, 203);
+    text-align: center;
+    font-size: 200%;
+    
+   
+}
+.links{
+    border: 3px solid maroon;
+    
+    text-align:center;
+
+}
+.sample{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 800;
+    
+    
+    
+}
+
+.desc{
+    text-align:center;
+    font-size:20px;
+}
+.ing{
+    font-size:20px;
+}
+.pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
